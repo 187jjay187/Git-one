@@ -104,4 +104,4 @@ dist
 .tern-port
 
 # Ignore test.md file
-.md
+*test.md
