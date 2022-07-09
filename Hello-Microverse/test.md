@@ -1,0 +1,1 @@
+.gitignore test.md -m "This file Should be ignored by git"
